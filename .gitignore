@@ -1,0 +1,9 @@
+# Archivos generados por PHP
+*.php~
+*.phps
+
+# Archivos generados por PHP session
+sess_*
+
+# Archivos AIWebTesting
+config.php
