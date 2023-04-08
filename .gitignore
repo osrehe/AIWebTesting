@@ -6,4 +6,4 @@
 sess_*
 
 # Archivos AIWebTesting
-config.php
+/config.php
