@@ -1,6 +1,6 @@
 <?php
     define('DB_SERVER', 'localhost');
-    define('DB_USERNAME', 'aiwebtestinguser');
-    define('DB_PASSWORD', 'CRD%4123%%');
-    define('DB_NAME', 'aiwebtesting');
+    define('DB_USERNAME', 'user');
+    define('DB_PASSWORD', 'pass');
+    define('DB_NAME', 'bd');
 ?>
