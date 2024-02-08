@@ -23,6 +23,6 @@ if ($resultado->num_rows > 0) {
 }
 
 // Cerrar la conexión cuando hayas terminado
-$conexion->closeConnection();
+$conexion->closeConnection(); 
 
 ?>
